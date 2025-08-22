@@ -1,0 +1,22 @@
+# VSCode settings
+.vscode/
+.settings.json
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Environment and dependency folders
+env/
+venv/
+*.egg-info/
+
+# Ignore .pngs
+#*.png

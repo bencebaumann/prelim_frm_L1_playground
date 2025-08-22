@@ -1,0 +1,95 @@
+frm_level = 1
+book = 1
+chapter = 5
+chapter_path = \FRM\FRM_L1\FRM_L1_FOUNDATIONS_OF_RISK_MANAGEMENT\C5_MODERN_PF_THEORY_AND_CAPM\
+5.1
+Q:
+Is the market portfolio the only efficient portfolio that can be formed?
+/Options/
+No
+Yes
+Ans:No
+
+5.2
+Q:
+What does beta measure?
+A: The volatility of the security 
+B: The joint volatility of any two securities in a portfolio
+C: The volatility of a security divided by the volatility of the market index
+D: The relative co-movement of a security with the market portfolio (benchmark)
+Ans:
+
+5.3-Q
+In the CAPM, What is the expected return for a stock with a beta of 1?
+/Options/
+A: E(R_M) - αᵢ
+B: E(R_M) - r
+C: E(R_M)
+D: E(R_M) + r
+Ans:
+
+5.4-Q
+The betas for three stocks are given below. Considering
+only the stock's beta, which company's stock would be 
+considered the most aggressive?
+3M                      1.14
+IRobot Corporation      1.49
+Applied Materials Inc.  1.64
+/Options/
+A: 3M
+B: IRobot Corporation
+C: Applied Materials Inc.
+5.4-Ans
+
+5.5-Q
+The risk-free rate of intereist is r = 5% and the markat
+portfolio is characterized by E(R_M) = 13%. The betas 
+for stocks A, B, and C are 0.5, 1.0, and 2.0, respectively. 
+According to the CAPM, what are the expected returns of 
+the three stocks?
+/Options/
+A. E(R_A) = 5%, E(R_B) = 11%, E(R_C) = 21%
+B. E(R_A) = 9%, E(R_B) = 13%, E(R_C) = 21%
+C. E(R_A) = 14%, E(R_B) = 22%, E(R_C) = 26%
+D. None of the above
+
+5.5-Ans
+
+5.6
+Q:
+The Sharpe ratio and the Treynor ratio evaluate
+performance relative to a customized benchmark.
+/Options/
+A: True
+B: False
+
+5.6-Ans
+
+5.7
+Q:
+The Capital Market Line dominates the efficient frontier 
+once a risk-free asset ins introduced.
+/Options/
+A: True
+B: False
+
+5.7-Ans
+
+5.8
+Q:
+The realised rate of return on stock A and stock B will be tghe same each month if they have the same beta
+/Options/
+A: True
+B: False
+
+5.9-Ans
+
+5.9
+If r = 4% and E(R_M) = 10!, then a stock with a beta of 1.3 is expected to return
+/Options/
+A: 10.0%
+B: 6.0%
+C: 7.8%
+D: 11.8%
+
+5.9-Ans
