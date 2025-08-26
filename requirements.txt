@@ -1,1 +1,7 @@
 tbc
+
+quicknote 4 gitpush
+
+git add .
+git commit -m "comment"
+git push origin main
